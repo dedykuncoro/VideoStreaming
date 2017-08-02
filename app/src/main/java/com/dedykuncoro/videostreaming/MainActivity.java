@@ -11,7 +11,7 @@ import android.widget.VideoView;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String VIDEO_URL = "https://archive.org/download/Japanese_childrens_song_-_kina_kuri_no_ki_no_shita_de/japanese_childrens_song_-_kina_kuri_no_ki_no_shita_de.mp4";
+    private static final String VIDEO_URL = "http://dedykuncoro.com/childrens-song/uploads/videos/japanese_childrens_song_-_okina_kuri_no_ki_no_shita_de.mp4";
 
     ProgressDialog pDialog;
     VideoView videoView;
